@@ -23,7 +23,7 @@ jobs:
       run: chmod +x gradlew
 
     - name: building
-      run: ./gradlew shadowJar --no-daemon
+      run: ./gradlew build
 
     - name: uploadjar
       uses: actions/upload-artifact@v4
