@@ -25,7 +25,7 @@ itemsAdderVersion = "3.6.1"
 gsonVersion = "2.11.0"
 creative-rp = "1.9.2-SNAPSHOT"
 creative-serializer = "1.9.2-SNAPSHOT"
-libs-disguises = "11.0.9"
+libs-disguises = "v11.0.0"
 featherVersion = "0.0.5"
 labymodVersion = "1.0.6"
 hmcCosmetics = "2.8.2-fed13b8e"
@@ -58,7 +58,7 @@ itemsAdder = { module = "com.github.LoneDev6:API-ItemsAdder", version.ref = "ite
 gson = { module = "com.google.code.gson:gson", version.ref = "gsonVersion" }
 creative-rp = { module = "team.unnamed:creative-api", version.ref = "creative-rp" }
 creative-serializer = { module = "team.unnamed:creative-serializer-minecraft", version.ref = "creative-serializer" }
-libs-disguises = { module = "me.libraryaddict.disguises:libsdisguises", version.ref = "libs-disguises" }
+libs-disguises = { module = "com.github.libraryaddict:LibsDisguises", version.ref = "libs-disguises" }
 feather = { module = "net.digitalingot.feather-server-api:api", version.ref = "featherVersion" }
 labymod = { module = "net.labymod.serverapi:server-bukkit", version.ref = "labymodVersion" }
 hmcCosmetics = { module = "com.hibiscusmc:HMCCosmetics", version.ref = "hmcCosmetics" }
